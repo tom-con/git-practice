@@ -1,10 +1,8 @@
 Everyone.
-<<<<<<< HEAD
 Tom.
 sherab.
 Chakar.
 Tobdhen.
 Karma.
-=======
 Sonam
->>>>>>> aae9596 (Adds my name in group.txt)
+Passang.
